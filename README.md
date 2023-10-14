@@ -27,6 +27,7 @@ Serving the HTML pages.
 Testing the webserver
 
 ## PROGRAM:
+```
 <!doctype html>
 <html>
 <head>
@@ -41,6 +42,7 @@ Testing the webserver
 <h2>5. Spring </h2>
 </body>
 </html>
+```
 
 ## OUTPUT:
 
