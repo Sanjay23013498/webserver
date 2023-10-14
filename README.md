@@ -27,6 +27,20 @@ Serving the HTML pages.
 Testing the webserver
 
 ## PROGRAM:
+<!doctype html>
+<html>
+<head>
+<title> My Web Server</title>
+</head>
+<body>
+<h1>Top Five Web Application Development Frameworks</h1>
+<h2>1.Django</h2>
+<h2>2. MEAN Stack</h2>
+<h2>3. MERN Stack </h2>
+<h2>4. ASP.NET core </h2>
+<h2>5. Spring </h2>
+</body>
+</html>
 
 ## OUTPUT:
 
