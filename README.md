@@ -27,7 +27,7 @@ Serving the HTML pages.
 Testing the webserver
 
 ## PROGRAM:
-```
+```html
 <!doctype html>
 <html>
 <head>
