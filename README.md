@@ -65,6 +65,9 @@ httpd.serve_forever()
 
 ## Output:
 ![output](./output.png)
+
+## Terminal Output:
+
 ![output](./terminal%20output.png)
 
 ## RESULT:
