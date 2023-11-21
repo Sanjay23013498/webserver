@@ -27,7 +27,6 @@ Serving the HTML pages.
 Testing the webserver
 
 ## PROGRAM:
-### C sanjay
 ```py
 from http.server import HTTPServer,BaseHTTPRequestHandler
 
