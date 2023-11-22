@@ -64,11 +64,11 @@ httpd.serve_forever()
 ```
 
 ## Client Output:
-![clientoutput](https://github.com/c-sanjay/webserver/assets/147139405/aab163da-e584-4e06-b391-deee73e2c6dc)
+![](./clientoutput.png)
 
 
 ## Server Output:
-![serveroutput](https://github.com/c-sanjay/webserver/assets/147139405/160997aa-0f4c-4199-9df3-75804a6d73b8)
+![](./serveroutput.png)
 
 
 
